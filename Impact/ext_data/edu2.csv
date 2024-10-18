@@ -1,0 +1,37 @@
+"Geographical_Area","School_Attendance","Sex","Locality","All ages","3-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44"
+"Ghana","Never attended School","Both sexes","All Locality Types",5299884,357541,372718,235823,288642,415005,482332,479008,449370,412092
+"Ghana","Never attended School","Male","All Locality Types",2058897,184103,190373,120478,130659,150724,170399,170489,163515,151939
+"Ghana","Never attended School","Female","All Locality Types",3240987,173438,182345,115345,157983,264281,311933,308519,285855,260153
+"Ghana","Attended in the Past","Both sexes","All Locality Types",8393922,0,0,37902,578016,1359838,1422859,1153508,955023,765962
+"Ghana","Attended in the Past","Male","All Locality Types",4285155,0,0,16862,258275,622511,682289,589383,501582,415232
+"Ghana","Attended in the Past","Female","All Locality Types",4108767,0,0,21040,319741,737327,740570,564125,453441,350730
+"Ghana","Currently Attending","Both sexes","All Locality Types",8930304,1013152,2756234,2642315,1743331,548648,144920,46293,17010,8296
+"Ghana","Currently Attending","Male","All Locality Types",4644919,511810,1399259,1340185,922178,327492,90525,30429,11671,5449
+"Ghana","Currently Attending","Female","All Locality Types",4285385,501342,1356975,1302130,821153,221156,54395,15864,5339,2847
+"Upper West","Never attended School","Both sexes","All Locality Types",305245,17645,26135,17855,17200,22228,26058,28169,25698,24655
+"Upper West","Never attended School","Male","All Locality Types",131669,9152,14155,10639,9175,8551,9510,10454,9857,9650
+"Upper West","Never attended School","Female","All Locality Types",173576,8493,11980,7216,8025,13677,16548,17715,15841,15005
+"Upper West","Attended in the Past","Both sexes","All Locality Types",84408,0,0,913,7458,15969,15538,11670,8236,5722
+"Upper West","Attended in the Past","Male","All Locality Types",46343,0,0,523,3657,7758,7908,6495,4975,3385
+"Upper West","Attended in the Past","Female","All Locality Types",38065,0,0,390,3801,8211,7630,5175,3261,2337
+"Upper West","Currently Attending","Both sexes","All Locality Types",256955,24796,76707,73145,53678,20752,5588,1574,438,132
+"Upper West","Currently Attending","Male","All Locality Types",134807,12441,38669,37268,28203,12706,3894,1136,331,74
+"Upper West","Currently Attending","Female","All Locality Types",122148,12355,38038,35877,25475,8046,1694,438,107,58
+"       Sissala East Municipal","Never attended School","Both sexes","All Locality Types",26455,1622,2294,1679,1860,2284,2673,2821,2353,2102
+"       Sissala East Municipal","Never attended School","Male","All Locality Types",12601,823,1353,1108,1192,1025,1067,1096,1004,903
+"       Sissala East Municipal","Never attended School","Female","All Locality Types",13854,799,941,571,668,1259,1606,1725,1349,1199
+"       Sissala East Municipal","Attended in the Past","Both sexes","All Locality Types",6269,0,0,57,601,1211,1234,970,685,435
+"       Sissala East Municipal","Attended in the Past","Male","All Locality Types",3298,0,0,35,266,577,586,463,412,266
+"       Sissala East Municipal","Attended in the Past","Female","All Locality Types",2971,0,0,22,335,634,648,507,273,169
+"       Sissala East Municipal","Currently Attending","Both sexes","All Locality Types",19409,2157,6300,5132,3957,1278,415,109,38,9
+"       Sissala East Municipal","Currently Attending","Male","All Locality Types",9356,1087,3075,2372,1812,633,272,65,26,5
+"       Sissala East Municipal","Currently Attending","Female","All Locality Types",10053,1070,3225,2760,2145,645,143,44,12,4
+"       Sissala West","Never attended School","Both sexes","All Locality Types",22945,1413,1941,1237,1500,2017,2163,2277,1967,1788
+"       Sissala West","Never attended School","Male","All Locality Types",10104,731,1053,740,837,815,808,908,783,700
+"       Sissala West","Never attended School","Female","All Locality Types",12841,682,888,497,663,1202,1355,1369,1184,1088
+"       Sissala West","Attended in the Past","Both sexes","All Locality Types",4141,0,0,59,506,932,778,534,373,218
+"       Sissala West","Attended in the Past","Male","All Locality Types",2291,0,0,33,233,472,402,294,233,142
+"       Sissala West","Attended in the Past","Female","All Locality Types",1850,0,0,26,273,460,376,240,140,76
+"       Sissala West","Currently Attending","Both sexes","All Locality Types",18145,1906,6108,5424,3498,873,260,51,18,3
+"       Sissala West","Currently Attending","Male","All Locality Types",9546,975,3089,2790,1887,569,182,36,13,2
+"       Sissala West","Currently Attending","Female","All Locality Types",8599,931,3019,2634,1611,304,78,15,5,1

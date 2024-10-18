@@ -1,0 +1,91 @@
+Schoolattendancestatus,Geographic_Area,Locality,Sex,All ages,3-5,6-10,11-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49
+Attended in the past,Ghana,All locality types,Both sexes,11375502,0,26117,59730,542151,1661537,1923249,1725033,1448599,1059990,822239
+Attended in the past,Ghana,All locality types,Male,5879519,0,14129,31178,246478,778862,940458,883257,761562,587029,464900
+Attended in the past,Ghana,All locality types,Female,5495983,0,11988,28552,295673,882675,982791,841776,687037,472961,357339
+Attended in the past,Upper East,All locality types,Both sexes,275253,0,1919,5271,26597,58003,59487,42592,28482,17669,11489
+Attended in the past,Upper East,All locality types,Male,150310,0,1144,3075,13104,26456,30183,24391,17368,11361,7641
+Attended in the past,Upper East,All locality types,Female,124943,0,775,2196,13493,31547,29304,18201,11114,6308,3848
+Attended in the past,Builsa South,All locality types,Both sexes,5849,0,17,57,554,1398,1303,944,594,322,180
+Attended in the past,Builsa South,All locality types,Male,2981,0,11,39,278,575,644,491,331,200,114
+Attended in the past,Builsa South,All locality types,Female,2868,0,6,18,276,823,659,453,263,122,66
+Attended in the past,Builsa North Municipal,All locality types,Both sexes,12847,0,19,81,848,2559,2862,2095,1439,938,625
+Attended in the past,Builsa North Municipal,All locality types,Male,6780,0,12,54,446,1159,1384,1205,806,537,361
+Attended in the past,Builsa North Municipal,All locality types,Female,6067,0,7,27,402,1400,1478,890,633,401,264
+Attended in the past,Bolgatanga Municipal,All locality types,Both sexes,46350,0,137,337,2576,7702,9661,8395,6129,3956,2665
+Attended in the past,Bolgatanga Municipal,All locality types,Male,24308,0,63,218,1287,3421,4533,4276,3415,2500,1657
+Attended in the past,Bolgatanga Municipal,All locality types,Female,22042,0,74,119,1289,4281,5128,4119,2714,1456,1008
+Attended in the past,Talensi,All locality types,Both sexes,18266,0,94,309,1986,4719,4045,2521,1664,916,628
+Attended in the past,Talensi,All locality types,Male,10172,0,67,194,989,2226,2191,1516,1040,598,418
+Attended in the past,Talensi,All locality types,Female,8094,0,27,115,997,2493,1854,1005,624,318,210
+Attended in the past,Bolgatanga East,All locality types,Both sexes,11451,0,9,45,560,1959,2563,2108,1413,942,635
+Attended in the past,Bolgatanga East,All locality types,Male,6193,0,5,29,298,907,1158,1154,813,592,434
+Attended in the past,Bolgatanga East,All locality types,Female,5258,0,4,16,262,1052,1405,954,600,350,201
+Attended in the past,Bongo,All locality types,Both sexes,25946,0,120,441,2978,6704,6242,3935,2327,1284,709
+Attended in the past,Bongo,All locality types,Male,13839,0,76,285,1412,2918,3104,2272,1501,901,510
+Attended in the past,Bongo,All locality types,Female,12107,0,44,156,1566,3786,3138,1663,826,383,199
+Attended in the past,Nabdam,All locality types,Both sexes,10526,0,53,193,1364,2761,2513,1431,902,464,286
+Attended in the past,Nabdam,All locality types,Male,5739,0,32,113,669,1241,1301,852,606,327,210
+Attended in the past,Nabdam,All locality types,Female,4787,0,21,80,695,1520,1212,579,296,137,76
+Attended in the past,Binduri,All locality types,Both sexes,13364,0,238,606,1980,3152,2774,1608,1047,630,404
+Attended in the past,Binduri,All locality types,Male,7725,0,139,364,975,1442,1523,1051,732,458,322
+Attended in the past,Binduri,All locality types,Female,5639,0,99,242,1005,1710,1251,557,315,172,82
+Attending now,Ghana,All locality types,Both sexes,11286990,1774472,3333314,2411728,2494708,862675,229280,96725,45514,20586,10382
+Attending now,Ghana,All locality types,Male,5798519,896045,1692817,1219393,1271520,483356,129475,55933,26198,12472,6640
+Attending now,Ghana,All locality types,Female,5488471,878427,1640497,1192335,1223188,379319,99805,40792,19316,8114,3742
+Attending now,Upper East,All locality types,Both sexes,478682,72715,146330,104373,103189,36289,8902,4022,1721,676,280
+Attending now,Upper East,All locality types,Male,246391,36486,74488,53314,51618,21157,5105,2385,1061,438,216
+Attending now,Upper East,All locality types,Female,232291,36229,71842,51059,51571,15132,3797,1637,660,238,64
+Attending now,Builsa South,All locality types,Both sexes,13987,2102,4180,2961,3229,1199,184,83,33,11,3
+Attending now,Builsa South,All locality types,Male,7265,1040,2151,1512,1635,735,119,41,19,8,3
+Attending now,Builsa South,All locality types,Female,6722,1062,2029,1449,1594,464,65,42,14,3,0
+Attending now,Builsa North Municipal,All locality types,Both sexes,22728,3356,6322,4806,5778,1892,305,174,68,18,3
+Attending now,Builsa North Municipal,All locality types,Male,12119,1680,3304,2555,3069,1227,148,78,41,13,1
+Attending now,Builsa North Municipal,All locality types,Female,10609,1676,3018,2251,2709,665,157,96,27,5,2
+Attending now,Bolgatanga Municipal,All locality types,Both sexes,55100,8981,15697,11084,11542,4547,1729,816,397,169,87
+Attending now,Bolgatanga Municipal,All locality types,Male,26715,4551,7863,5438,4957,2202,829,442,221,110,68
+Attending now,Bolgatanga Municipal,All locality types,Female,28385,4430,7834,5646,6585,2345,900,374,176,59,19
+Attending now,Talensi,All locality types,Both sexes,31750,4818,9943,7172,7256,1940,366,155,63,27,7
+Attending now,Talensi,All locality types,Male,16935,2390,5120,3759,4003,1293,210,99,36,18,6
+Attending now,Talensi,All locality types,Female,14815,2428,4823,3413,3253,647,156,56,27,9,1
+Attending now,Bolgatanga East,All locality types,Both sexes,15444,2433,4417,3260,3591,1160,314,158,68,26,12
+Attending now,Bolgatanga East,All locality types,Male,7864,1227,2283,1651,1747,649,158,85,36,18,7
+Attending now,Bolgatanga East,All locality types,Female,7580,1206,2134,1609,1844,511,156,73,32,8,5
+Attending now,Bongo,All locality types,Both sexes,42734,6643,13448,10001,9391,2352,505,258,103,18,10
+Attending now,Bongo,All locality types,Male,21692,3381,6890,5058,4521,1322,271,161,64,13,7
+Attending now,Bongo,All locality types,Female,21042,3262,6558,4943,4870,1030,234,97,39,5,3
+Attending now,Nabdam,All locality types,Both sexes,19055,2729,5927,4272,4218,1406,310,144,29,14,3
+Attending now,Nabdam,All locality types,Male,9558,1400,3013,2159,1934,741,175,102,18,13,2
+Attending now,Nabdam,All locality types,Female,9497,1329,2914,2113,2284,665,135,42,11,1,1
+Attending now,Binduri,All locality types,Both sexes,26120,3821,8640,6011,5277,1805,325,161,43,23,7
+Attending now,Binduri,All locality types,Male,13514,1891,4365,3116,2701,1074,204,106,31,15,6
+Attending now,Binduri,All locality types,Female,12606,1930,4275,2895,2576,731,121,55,12,8,1
+Never attended,Ghana,All locality types,Both sexes,5952272,558184,333486,176167,274587,421325,471773,564957,549925,525327,434847
+Never attended,Ghana,All locality types,Male,2399314,288645,172452,92470,135243,180584,192185,223431,212371,202931,166041
+Never attended,Ghana,All locality types,Female,3552958,269539,161034,83697,139344,240741,279588,341526,337554,322396,268806
+Never attended,Upper East,All locality types,Both sexes,449762,30754,18463,11942,19273,27705,31809,39790,40156,41642,35377
+Never attended,Upper East,All locality types,Male,185143,16111,9883,7012,10257,12112,13300,16299,16137,16023,13880
+Never attended,Upper East,All locality types,Female,264619,14643,8580,4930,9016,15593,18509,23491,24019,25619,21497
+Never attended,Builsa South,All locality types,Both sexes,13947,749,481,305,488,854,1128,1481,1418,1403,1093
+Never attended,Builsa South,All locality types,Male,6650,393,284,228,324,472,610,800,731,660,496
+Never attended,Builsa South,All locality types,Female,7297,356,197,77,164,382,518,681,687,743,597
+Never attended,Builsa North Municipal,All locality types,Both sexes,16979,548,239,187,364,669,921,1364,1638,1882,1711
+Never attended,Builsa North Municipal,All locality types,Male,7394,287,151,124,222,381,525,719,757,845,766
+Never attended,Builsa North Municipal,All locality types,Female,9585,261,88,63,142,288,396,645,881,1037,945
+Never attended,Bolgatanga Municipal,All locality types,Both sexes,30641,1456,557,369,799,1435,1964,2864,3086,3250,2997
+Never attended,Bolgatanga Municipal,All locality types,Male,11520,777,297,218,454,684,874,1212,1184,1238,1026
+Never attended,Bolgatanga Municipal,All locality types,Female,19121,679,260,151,345,751,1090,1652,1902,2012,1971
+Never attended,Talensi,All locality types,Both sexes,30163,1775,847,530,1001,1927,2389,2898,2906,2989,2614
+Never attended,Talensi,All locality types,Male,13261,950,474,330,587,989,1186,1378,1302,1356,1150
+Never attended,Talensi,All locality types,Female,16902,825,373,200,414,938,1203,1520,1604,1633,1464
+Never attended,Bolgatanga East,All locality types,Both sexes,9157,363,69,65,123,308,524,853,918,1006,831
+Never attended,Bolgatanga East,All locality types,Male,3372,187,35,36,74,132,225,348,385,440,332
+Never attended,Bolgatanga East,All locality types,Female,5785,176,34,29,49,176,299,505,533,566,499
+Never attended,Bongo,All locality types,Both sexes,38771,2386,973,553,1242,1925,2483,3498,3596,3758,3257
+Never attended,Bongo,All locality types,Male,15047,1264,541,346,699,875,1017,1373,1451,1312,1120
+Never attended,Bongo,All locality types,Female,23724,1122,432,207,543,1050,1466,2125,2145,2446,2137
+Never attended,Nabdam,All locality types,Both sexes,19923,977,465,355,832,1471,1789,2129,2114,1943,1733
+Never attended,Nabdam,All locality types,Male,9024,529,259,228,483,741,835,1007,980,879,791
+Never attended,Nabdam,All locality types,Female,10899,448,206,127,349,730,954,1122,1134,1064,942
+Never attended,Binduri,All locality types,Both sexes,31634,2469,1747,1257,1872,2188,2171,2381,2512,2637,2140
+Never attended,Binduri,All locality types,Male,12975,1280,952,733,1019,928,884,931,931,900,783
+Never attended,Binduri,All locality types,Female,18659,1189,795,524,853,1260,1287,1450,1581,1737,1357
